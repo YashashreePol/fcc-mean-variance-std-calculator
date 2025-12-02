@@ -45,3 +45,17 @@ The function returns a dictionary structured as follows. Using the input list `[
   # ... (Other metrics follow the same structure)
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
+...
+## 💻 Example Output
+
+[Your code output block goes here]
+
+---
+
+## ⚖️ Licensing ⬅️ ADD THIS SECTION HERE
+
+This project is licensed under the **MIT License**. For the full terms and conditions, see the [LICENSE](LICENSE) file in this repository.
+
+---
+
+*If you have any questions or feedback, please feel free to reach out!*
